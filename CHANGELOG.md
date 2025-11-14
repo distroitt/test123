@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/distroitt/test123/compare/v1.0.1...v1.1.0) (2025-11-14)
+
+
+### Features
+
+*  oleg neveg ([daa3c66](https://github.com/distroitt/test123/commit/daa3c66c0e9de715262f809aa6ff390ed070cdd8))
+
 ## [1.0.1](https://github.com/distroitt/test123/compare/v1.0.0...v1.0.1) (2025-11-14)
 
 
