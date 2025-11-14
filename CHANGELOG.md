@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/distroitt/test123/compare/v1.1.1...v1.1.2) (2025-11-14)
+
+
+### Bug Fixes
+
+* BREAKING CHANGE pizdec ([9a1ebe1](https://github.com/distroitt/test123/commit/9a1ebe13671d74168b065f20d98a41924ee6df1e))
+
 ## [1.1.1](https://github.com/distroitt/test123/compare/v1.1.0...v1.1.1) (2025-11-14)
 
 
