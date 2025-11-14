@@ -1,3 +1,18 @@
+# [2.0.0](https://github.com/distroitt/test123/compare/v1.1.3...v2.0.0) (2025-11-14)
+
+
+### Code Refactoring
+
+* **auth:** rename authentication method to `loginWithEmail` ([89c3c6f](https://github.com/distroitt/test123/commit/89c3c6f605c52b50f540a61bd72120e2a50d027d))
+
+
+### BREAKING CHANGES
+
+* **auth:** The `authenticateUser` function has been removed.
+All consumers must update their code to use the new `loginWithEmail` function.
+The new function requires an object with `email` and `password` properties
+as its argument, instead of separate arguments for username and password.
+
 ## [1.1.3](https://github.com/distroitt/test123/compare/v1.1.2...v1.1.3) (2025-11-14)
 
 
