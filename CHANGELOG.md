@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/distroitt/test123/compare/v3.0.0...v4.0.0) (2025-11-14)
+
+
+### Bug Fixes
+
+* fsdf ([d6be33e](https://github.com/distroitt/test123/commit/d6be33e5a204a55fe8b56983ddf8f0c7c9b46889))
+
+
+### BREAKING CHANGES
+
+* z nashi
+
 # [3.0.0](https://github.com/distroitt/test123/compare/v2.0.0...v3.0.0) (2025-11-14)
 
 
