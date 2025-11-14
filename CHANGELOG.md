@@ -1,3 +1,16 @@
+# [3.0.0](https://github.com/distroitt/test123/compare/v2.0.0...v3.0.0) (2025-11-14)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([341564e](https://github.com/distroitt/test123/commit/341564ebb466f2dd7f1447cf0e3df71ba9af4213))
+
+
+### BREAKING CHANGES
+
+* **pencil:** The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons.
+
 # [2.0.0](https://github.com/distroitt/test123/compare/v1.1.3...v2.0.0) (2025-11-14)
 
 
