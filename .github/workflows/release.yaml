@@ -13,6 +13,7 @@ jobs:
       contents: write # <-- Дает права на запись в репозиторий (коммиты, теги)
       pull-requests: write # <-- Может понадобиться для некоторых плагинов (опционально)
       id-token: write # <-- Для OIDC, если используете (опционально)
+      releases: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
