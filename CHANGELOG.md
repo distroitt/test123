@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/distroitt/test123/compare/v1.0.0...v1.0.1) (2025-11-14)
+
+
+### Bug Fixes
+
+* fix oleg ([2055379](https://github.com/distroitt/test123/commit/20553799df3c0c9564e075a8de92613d097cd92f))
+
 # 1.0.0 (2025-11-14)
 
 
